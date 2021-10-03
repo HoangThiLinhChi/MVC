@@ -23,7 +23,7 @@ namespace Demo
 
                 try
                 {
-                    SeedData.Initialize(services);
+                    DataStudentcs.Initialize(services);
                 }
                 catch (Exception ex)
                 {
